@@ -1,0 +1,21 @@
+{
+  "train_hook": "Cascade SERIE wired: emb_v1+attn+mesh1 → fuse emb_v2+mesh2 → fuse emb_v3+mesh3 → lm_head pezzi. encode_cascade + align_stages_to_pezzi. Avvio: --vocab stages --confirm-stages-train --ckpt-dir checkpoints/geodesic_stages_attn",
+  "wiring": {
+    "mode": "serial_stages",
+    "model": "geodesic_stages_model.CascadeMeshModel",
+    "v1": "Embedding(pezzi) + CausalAttn + mesh_bank1",
+    "v2": "transform_12 + Embedding(parole_aligned) + mesh_bank2",
+    "v3": "transform_23 + Embedding(unioni_aligned) + mesh_bank3",
+    "head": "lm_head tied emb_v1 → next pezzo",
+    "align": "parole/unioni espanse sulla timeline pezzi (pad su break)",
+    "not": "greedy parallelo unioni|parole|pezzi"
+  },
+  "cli_train": "/Users/thomasseri/Desktop/columns/geodesic_mesh_nn/.venv/bin/python /Users/thomasseri/Desktop/columns/geodesic_mesh_nn/train_geodesic_50m.py --vocab stages --confirm-stages-train --ckpt-dir /Users/thomasseri/Desktop/columns/geodesic_mesh_nn/checkpoints/geodesic_stages_attn --d-model 256 --freq 2 --seq-len 128 --max-steps 120000 --device mps",
+  "ckpt_dir": "/Users/thomasseri/Desktop/columns/geodesic_mesh_nn/checkpoints/geodesic_stages_attn",
+  "manifest": "/Users/thomasseri/Desktop/columns/geodesic_mesh_nn/vocab_stages/manifest.json",
+  "sizes": {
+    "pezzi": 1251,
+    "parole": 17908,
+    "unioni": 20006
+  }
+}
