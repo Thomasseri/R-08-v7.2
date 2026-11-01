@@ -164,7 +164,11 @@ print(risposta)
 
 ---
 
-## 📜 Licenza e Proprietà Intellettuale
+## 📜 Licenza, Etica e Proprietà Intellettuale
 
 Il codice architetturale e i pesi del modello neurale sono rilasciati con licenza di ricerca non commerciale **Sentinel R-08 Research License** (consultabile nel file [LICENSE.md](LICENSE.md)).  
-Tutti i diritti sul brand **Sentinel LifeOS**, sui motori ontologici proprietari e sull'ecosistema industriale appartengono a **Thomas Seri** ([www.sentinelhub.eu](https://www.sentinelhub.eu)).
+
+- ✅ **Uso Accademico e Studio**: Consentito liberamente per ricerca scientifica, riproducibilità e valutazione.
+- ❌ **Uso Commerciale For-Profit**: Richiede apposita licenza commerciale scritta da parte di Sentinel.
+- 🚫 **Divieti Etici Assoluti (Acceptable Use Policy)**: È severamente e globalmente vietato qualsiasi impiego per scopi militari/bellici/armi, propaganda o indottrinamento religioso, pornografia/sfruttamento sessuale, promozione di dipendenze (gioco d'azzardo/sostanze stupefacenti) o sorveglianza biometrica lesiva dei diritti umani. La violazione comporta la risoluzione automatica e immediata di ogni diritto d'uso (vedi [LICENSE.md](LICENSE.md)).
+- ⚖️ **Brevetti & Marchio**: Tutti i diritti sul brand **Sentinel LifeOS**, sui motori ontologici proprietari e sull'ecosistema industriale appartengono a **Thomas Seri** ([www.sentinelhub.eu](https://www.sentinelhub.eu)).

@@ -28,6 +28,18 @@ You shall NOT:
 
 ---
 
+### 3.1 STRICT ETHICAL RESTRICTIONS & PROHIBITED USES (ACCEPTABLE USE POLICY)
+It is strictly, unconditionally, and globally FORBIDDEN to use the Software, model weights, checkpoints, architecture, code, or any derivative works for:
+1. **Military, Defense & Warfare**: Weapons development, autonomous defense systems, missile targeting, tactical combat simulations, warfare logistics, or military applications of any kind.
+2. **Religious Propaganda & Indoctrination**: Proselytism, religious manipulation, spiritual coercion, or automated doctrinal dissemination.
+3. **Pornography & Sexual Exploitation**: Generation, processing, or dissemination of sexually explicit content, pornography, non-consensual deepfakes, or sexual exploitation.
+4. **Addictions & Harmful Behaviors**: Promotion of gambling, casinos, betting platforms, illicit drug distribution, or psychological manipulation inducing behavioral addictions.
+5. **Surveillance & Human Rights Violations**: Mass biometric surveillance, predictive policing, or discrimination based on race, gender, religion, or nationality.
+
+**IMMEDIATE REVOCATION CLAUSE:** ANY USE VIOLATING THIS SECTION IMMEDIATELY AND AUTOMATICALLY REVOKES ALL PERMISSIONS AND LICENSES GRANTED HEREIN WITH RETROACTIVE EFFECT, RENDERING ANY ONGOING POSSESSION OR USE OF THE SOFTWARE AN ILLEGAL INFRINGEMENT OF THE AUTHOR'S INTELLECTUAL PROPERTY AND COPYRIGHT.
+
+---
+
 ### 4. EXPLICIT RESERVATION OF PATENT RIGHTS (PATENT NOTICE)
 **NO PATENT LICENSE GRANTED:**  
 The Author specifically reserves all worldwide rights to apply for, prosecute, maintain, and enforce any patents, utility models, registered designs, or industrial property rights covering the spherical geodesic mesh neural network architecture, polyhedral discrete face routing, pyramidal central hub communication, hierarchical ontology knowledge trees, or any related methods and systems embodied in or practiced by this Software. 
