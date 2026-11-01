@@ -22,7 +22,7 @@
     "d_stretto": 128,
     "d_centro": 512,
     "stadi": 3,
-    "parametri_hubs_totali": 7311360
+    "parametri_hubs_totali": 7266816
   },
   "causal_convolutions_1d": {
     "enabled": true,
