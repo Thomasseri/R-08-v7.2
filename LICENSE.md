@@ -34,7 +34,8 @@ It is strictly, unconditionally, and globally FORBIDDEN to use the Software, mod
 2. **Religious Propaganda & Indoctrination**: Proselytism, religious manipulation, spiritual coercion, or automated doctrinal dissemination.
 3. **Pornography & Sexual Exploitation**: Generation, processing, or dissemination of sexually explicit content, pornography, non-consensual deepfakes, or sexual exploitation.
 4. **Addictions & Harmful Behaviors**: Promotion of gambling, casinos, betting platforms, illicit drug distribution, or psychological manipulation inducing behavioral addictions.
-5. **Surveillance & Human Rights Violations**: Mass biometric surveillance, predictive policing, or discrimination based on race, gender, religion, or nationality.
+5. **Political Campaigns & Partisan Propaganda**: Electoral manipulation, voter persuasion, automated political astroturfing, partisan lobbying, candidate campaigns, or deceptive political disinformation.
+6. **Surveillance & Human Rights Violations**: Mass biometric surveillance, predictive policing, or discrimination based on race, gender, religion, or nationality.
 
 **IMMEDIATE REVOCATION CLAUSE:** ANY USE VIOLATING THIS SECTION IMMEDIATELY AND AUTOMATICALLY REVOKES ALL PERMISSIONS AND LICENSES GRANTED HEREIN WITH RETROACTIVE EFFECT, RENDERING ANY ONGOING POSSESSION OR USE OF THE SOFTWARE AN ILLEGAL INFRINGEMENT OF THE AUTHOR'S INTELLECTUAL PROPERTY AND COPYRIGHT.
 
