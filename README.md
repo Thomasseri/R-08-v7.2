@@ -38,6 +38,7 @@ inference: false
 **Autore & Ideatore:** Thomas Seri  
 **Hardware di Sviluppo:** Apple Silicon (Metal Performance Shaders - MPS)  
 **Modelli Correlati della Famiglia:**
+- 🇮🇹 [Vocabolario & Tokenizer gpTommy 32k su GitHub](https://github.com/Thomasseri/gpTommy-32k) | [Hugging Face](https://huggingface.co/Tom2701/gpTommy-32k)
 - 🌟 [Nuovo Sentinel R-08 v7.2a DA ZERO (51.6M, Record 82.51% BLiMP-IT) su GitHub](https://github.com/Thomasseri/R-08-v7.2a) | [Hugging Face](https://huggingface.co/Tom2701/R-08-v7.2a)
 - 🌐 [R08 v7 Pyramid (44.5M) su Hugging Face](https://huggingface.co/Tom2701/R-08) | [GitHub](https://github.com/Thomasseri/R-08)
 - 🔬 [Controllo A/B Transformer Baseline (44.9M) su Hugging Face](https://huggingface.co/Tom2701/R-08-Transformer-Baseline) | [GitHub](https://github.com/Thomasseri/R-08-Transformer-Baseline)
