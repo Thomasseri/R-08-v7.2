@@ -38,6 +38,7 @@ inference: false
 **Autore & Ideatore:** Thomas Seri  
 **Hardware di Sviluppo:** Apple Silicon (Metal Performance Shaders - MPS)  
 **Modelli Correlati della Famiglia:**
+- 🌟 [Nuovo Sentinel R-08 v7.2a DA ZERO (51.6M, Record 82.51% BLiMP-IT) su GitHub](https://github.com/Thomasseri/R-08-v7.2a) | [Hugging Face](https://huggingface.co/Tom2701/R-08-v7.2a)
 - 🌐 [R08 v7 Pyramid (44.5M) su Hugging Face](https://huggingface.co/Tom2701/R-08) | [GitHub](https://github.com/Thomasseri/R-08)
 - 🔬 [Controllo A/B Transformer Baseline (44.9M) su Hugging Face](https://huggingface.co/Tom2701/R-08-Transformer-Baseline) | [GitHub](https://github.com/Thomasseri/R-08-Transformer-Baseline)
 
@@ -124,6 +125,17 @@ flowchart TD
 | [**Transformer Baseline**](https://huggingface.co/Tom2701/R-08-Transformer-Baseline) | Baseline di Controllo | 44.9M | 14 strati | 85.84% | 54.00% | ~220 MB |
 | 🌐 [**R08 v7 Pyramid**](https://huggingface.co/Tom2701/R-08) | Thomas Seri / Sentinel | 44.5M | **2 strati** | 80.95% | 52.80% | ~120 MB |
 | 🚀 **R08-v7.2 (Rob)** | **Thomas Seri / Sentinel** | **51.6M** | **2 strati** | **82.02%** | **55.00%** | **~130 MB** |
+| 🌟 [**R08-v7.2a (DA ZERO)**](https://github.com/Thomasseri/R-08-v7.2a) | **Thomas Seri / Sentinel** | **51.6M** | **2 strati** | **82.51%** 🏆 | **49.20%** | **~130 MB** |
+
+---
+
+## 📈 Grafici Lineari di Efficienza Hardware & Token
+
+### 1. Curva di Efficienza dei Token (Loss vs Token Visti)
+![Curva di Efficienza Token](./assets/efficiency_loss_curve.svg)
+
+### 2. Footprint Memoria RAM KV-Cache vs Lunghezza Contesto
+![Curva di Efficienza RAM KV-Cache](./assets/kv_cache_ram_curve.svg)
 
 ---
 
