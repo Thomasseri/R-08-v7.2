@@ -129,12 +129,22 @@ flowchart TD
 
 ---
 
-## 📈 Grafici Lineari di Efficienza Hardware & Token
+## 📈 Grafici Lineari di Efficienza Hardware & Lineage
 
-### 1. Curva di Efficienza dei Token (Loss vs Token Visti)
+### 1. Confronto Lineare di Famiglia: Sentinel R-08 v7 vs v7.2 vs v7.2a
+*Andamento della Loss di Pretraining: R-08 v7.2a DA ZERO parte da pesi casuali (loss 5.04), supera v7 già a 10.000 step e a 50.000 step batte il record che v7 aveva raggiunto a 100.000 step:*
+
+![Confronto Lineare di Famiglia Sentinel R-08](./assets/lineage_v7_v72_v72a_loss_curve.svg)
+
+### 2. Benchmark Linguistici & Sintattici: BLiMP-IT e MultiBLiMP Italiano
+*La combinazione delle 3 sfere geodetiche con i 12 hub regionali dell'icosaedro garantisce il picco storico per modelli sferici su grammatica e concordanza morfologica:*
+
+![Benchmark Sintattici BLiMP-IT e MultiBLiMP](./assets/lineage_accuracy_blimp.svg)
+
+### 3. Curva di Efficienza dei Token (Loss vs Token Visti)
 ![Curva di Efficienza Token](./assets/efficiency_loss_curve.svg)
 
-### 2. Footprint Memoria RAM KV-Cache vs Lunghezza Contesto
+### 4. Footprint Memoria RAM KV-Cache vs Lunghezza Contesto
 ![Curva di Efficienza RAM KV-Cache](./assets/kv_cache_ram_curve.svg)
 
 ---
