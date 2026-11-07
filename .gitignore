@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+export_v7_2_checkpoint.py
+fast_upload_hf.py
+model.safetensors
